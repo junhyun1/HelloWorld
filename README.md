@@ -1,2 +1,6 @@
 # HelloWorld
 Learning about using Github
+
+HI EVERYONE,
+
+I HOPE THIS REPOSITORY BE THE MOST USEFUL COURSR FOR BEGINNERS!
